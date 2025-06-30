@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giovqnni88
 - 👀 I’m interested in Software & Web Development 
-- 🌱 I’m currently working Full Stack on .NET Web Development
+- 🌱 I’m currently working on Full Stack .NET Web Development
 - 💞️ I’m looking to collaborate on Software and Web projects
 - 📫 You can reach me here -> giovanniangelino589@gmail.com
 
